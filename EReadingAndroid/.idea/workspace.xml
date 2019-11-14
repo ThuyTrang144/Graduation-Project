@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="BIND" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0118a318-7120-43ee-a2d7-dbf0d9e8ae2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icons_user_96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DataFavoriteResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DataFavoriteResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list_favorite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_list_favorite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0197b7b82b35f37d6e1f61fd619ff4ba.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0362393715b46fb336a670789bb4b1f8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/04c4f83c842b269b4b8c6a815d8196f8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/053e2f4aab14484e080c9cc96f9dbfdc.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0611c2303ef615ddf8f0b9ade86ddd28.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/07bd487445e7a444d544bf0d849b9c51.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/089a5789d16acd04e8d74dfce5b460f5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/093b8aaae3243badbe1871add6123063.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0a5f358668e036e069edccf86135a9a4.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0b811c64dfa5ac9c07d49b3f16fbe41b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0d6651a4793c95c4eca4c65b7d87cf53.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/0db4c37f7e7c4b03b8375fdd063db93e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/102ef2f6b05a759540c32a63e7ef997d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/12df959f1aefa64b5c7f6da96352a139.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/13d580cafcfcc25d0554dbea8e01c198.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/14762b29de6ff9a81be978b7a2c8a105.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/161ba3d67650be2dfa3ff941b6ecea12.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/181ac9d48b160d05a4eba477d902834d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/188b23f9491fe199998c3af9e425006c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/18b0195b52a64837e03edacfa80777dd.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/18d0743617db9b8f6d01a40bd8443933.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/1ab67950e68e4bf68cb726f5f9cad274.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/1f87dcc70e3432363d4c48995d9e8fb5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/1fa7eb91225af9c9992ab5cb13e73bbc.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/1fffc2128afa3b904d94f72de296df56.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/20cbd44c508583c6ede54a8d0809b0b9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/20f110c21abb51908310e8e2a96eb44d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/222a9354a7be387813cbae4da9d77412.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/23009510fe56a52f12ac2db65a9d58d8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/24a60dfd2aab2b949f2f9c66d6c0cd17.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/25632dde26b2057c36c5eccac15f5718.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/260bc354755a5d1797bea4065bbbc5ea.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/2634693c67d4afff0ec0efe8d83318a4.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/289b638deb7b03a6b2e0fac9c24a4a1f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/28bcd47fed0517a37038776c2654909f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/28e057155a27c9d45824aca66261425c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/28f1c0a27d31a81e847610f9e3e53f78.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/2975a124f43a149622945c88ccf6591a.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/29d1d1449019b37d88dd6a994f154942.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/2b82c41114d70076676e4d5d85f5e637.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/2df7d20eb1963dec85af7a50b9b56733.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/2ed3a977956ff29154974f274713f8f2.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/30450b782e9ad8c49fe04e408e7a0c54.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/317bc26b4f58c750ef5b13416974371d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/323a2d58cce728303fe5cb93fc7fd15d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/32530faf63840f15b8b8ad17bf8a1c79.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/349b87e1a5538745bfea0a1e84b54744.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/35ec44504d24c0c9ca69943b4ca61d8d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/36f24184823a70e1346cd4f84feb5e45.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3802917e3d006b03bb70d40fe2d8d30d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/38841dd77447b53b6c893f8eeffb441e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/38961379a00909841196aab32f592156.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3a99b92debaf54525c58c52099ff1daa.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3b06a6bce37b2130394a73cc4563c002.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3b5a0637191a9730839c4d3cc86fa662.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3b64b14cc19063da49523109907d481f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3c5ab924ba46d393705e19f15c11f89e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3daac104f851c2a26098eefaa4e294dd.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/3df170357413efc7ff18efdf03477c9e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/401b5a9befd179ee2615d84c9bcda325.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/40af7bb2b10ae8be5db729a97fd540a0.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4688646ca0067d35cf0009f3c8aa62ae.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/46c81f3aad3a99ee2c4a4c601ad0dc42.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/47bb13c32fa583d0b8c922a29c2edff1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/49540d56d4a8254ec5ca0a6e8fe84827.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4a271dd00e7c752be06f4d0ce7c0954c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4ab47714cdc4c954cde3c130be23888d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4b64ef88d72be06064adc427f1a9a670.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4c34e0ed7640ff1e5f6b26923f76ae3c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4c43751539cfd0533ec5c233d44c2f54.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4c74797e95ed4fed1207cf170a7b9a83.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4ddec1db7ce8c6e10cbb73ab99bd3808.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4de356f13cdb16e93836e96ee550cb9a.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4ecccfe7d8cdca8680ecddc9e76eced6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4eff41ffacb72cb3e3b5e10d2cff2cf0.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4f8c02011bcf8dd02290a3fbfa025c86.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/4fe4ade0f892b8219142b435cb3d7816.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/514296c659e78c2bef1a141d6276468e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5265234b4bfeb09218453909cdc5bf3d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/55b738d37963cf8a1f71a682913cf43c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5629b0ebc063e21203264be3776e2e8e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/56494b1fc493a696c1907d396c90de55.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/56ee941e2ee7a0d860566d9afeb0d161.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/57d7caf9854edd8000872a76ea171290.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5827f3e02e3c0bec76b3ad544c090b7e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/58c3f83bdc26bce341b41dd29c3cfc4e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5a7bb2fb66d8c9f8656726b03f8a209e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5a846c86905233ec35727a7bbb0d6c7d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5aaa1e351b4b8aa987d3426efd13c8fb.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5b31a98cfb0de4bf20c06f12021952f5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5d8c17359b19bd4ff10b07c9158f15cc.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5e2ecdb4a0c3693332521c40765db8f5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5e4db051c5a37129bb04c81621e46274.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5eac869eb4106186ca93c310bb158b1b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/5f61f85c700323a5d28d3bb534c4712f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6000b1a25bc20904d4c42ff6c06b5c86.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/612d87ea1d8e3d5544aeaa0cb1b7d025.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/61d1d6d20a05261cbde7d602adab58c7.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/625562051efb8e572efe057e28b59b9e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6326a8371998360f1d0287e77e0baad1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/63279063094303d2ec231556e7a12192.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6390413a313eec2668a6cdc3c601617f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/66fdb2eff5f2b7f7e8dd2c3b4566606b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6886b8254b18f36db52a44e2184c0c31.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/68971aca66119d601c651ac4e4968e31.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/68d7dbc7b5582832bcab0a785319d61b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/69aa47af8516e96d735c0b16ced95017.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/69ad9befba32d138544bf1fae069e901.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/69b5cabdf93e0a5b90f1718f2dce1463.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/69c51704a1fdb6d6faa2f9c02dfd0e86.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6c0013b4489c1a05e7d07672d342e244.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6c56c4ed2a1c3f5b47c5963b4e44980d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/6fe51e8ea8e0c406ebfd0efbdf026710.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/71cd5d0034c7431dc61f1dc7ea94e2cb.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/723ac31e8a040fbd0e27a9a78ba7ed72.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/74566c15aa5001879eafc45463f654f3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/752b7f35cc38315529a60a7d3585684c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/781efc6b91814ec61327d4e30a34cb02.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/789564295aa31f8553215084c3b309f7.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/78c2e7b7d44e667758c7563f22058939.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/79799f19e7e51a8cf92d8df2d3418f33.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7abfe7ae9a5d3961132f9e8ce3e5fe73.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7b2af9c658eb338faa0a3e1a47cc3a3f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7c29a56a41bfe67a13305ef21683f235.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7c6c3ca8cb27452c277d2a3a054c62d2.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7d264c5dca53ccf67870fc0fbf9dea89.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7da393cd97106c56678a8a839854b4ef.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7df622b64aaa965a7a3c1aa49a46c2f0.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7f773b1ae2f468f86dcc19fec3b0bcfb.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/7feac112415f48ba12096c68fa13afb0.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/80e7212ba24454ec73736d6e2151f613.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/82f19136a62b7733b224a60c0359c625.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/841a786d4cdac95839d736e1f92399c8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/844eed8e903f2680252181c151c6fc92.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/85614b952886ddede7027469f6f02117.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/85691a8a646d9b248f07ce3278cce5aa.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/85f916c3c478291d671497b5d866d270.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/879bc56bf8b548df8c92814c5356faa3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/88084b6dc1af1a476074eb8d18f45d86.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/8979f41c582ea9707cac22c357069af5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/8aab75ca39d608f19a10cf0e08dab4b2.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/8ae91f5b5edc2eac07ae8ac72c445694.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/8b4660b32c456a12823309af445da1b3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/8c1e2c33eaa7f31aff4ceae8fb6c29b8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/8f5fb6c9346d5d26fb5851965b28a7e3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/900f50259f189e4a69934c4145aeaf68.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/900fb66652cb08871af872d020eb0581.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/904e0d1cabf7ba10ecc67ba2e224dfa1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/91dae9aab46107b4bcaf1cd9b13431a6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9223412d8f7930a27256069ae3612d90.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/92dcb7c034b5d14e3389798f3c333521.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/93d862e8d832aa6cb11f28568e6c3a27.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9476eca30ddfe30d6d2dfe82028c3a77.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/951f12e44af54d8eb40835e9ca94103d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/95aa680a9df0cfba241455967278f70d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9c0b82adcd6fd386a4f325472361ba16.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9d5ec78695e6b7de2b12bbae0d0f0cc2.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9e8e2591c62ca24711c42439e79c3494.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9f9c2b715023c20913514bace1299d78.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9fa99c33a149a0e9d264209049a6abe2.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/9fb3a8b7d222e56db38a923d0e18b3b7.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a0675d31375b53a8f9ff180720c06c87.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a156289f9f4ff3a242cf0d3b4f3f1dc5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a15c2bfd675f9ec31db19f299c5a59a9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a196cae423452c7e6bed18915fd03870.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a1bfe6f491cf4f065b8d4038af5dae20.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a556a94efce12bf7f4c6506d46ac0a0a.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a5ef9426999ee92024a8b0401201e256.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a69321a73816b5dfbb3b925750ff232e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a6f91cf87bc6cc34063cadfd05c9c960.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a74271675fc6668c3ac5a66016335eb4.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a7964f86d5dc1f26c0bffba3444ce2bc.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a7979a5a36244c37c0e472d4c9189fc5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a79c2f728807512f98b9a00295bc3fc6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a80fe52c05b4a524d06291647fbf12f6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a89d01658b6edb5d5c0a4bd5a8216485.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/a97340dd1b8e73bd7e06b87f47b5c686.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ab9231f8fcfea438b6e3f33e1449d294.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/acb45cad4a2196da567cade0ea96c385.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ad26213fd46f600d95e55015c8143f6c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ad2a52ac74af29c4be26424bd915ba5c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ad2cb881c5c080704d17b5e76f4c96ef.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ae81aea00fa7fa6b8fb79d7a3554ee08.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/af18e2c4ab6caf188f28d18dfcc61a65.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/af724344ed7964eb3ef3ee456bdb227e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b09609b2387cc057f11f27b9e1c7783f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b172439c457bda43157d7b0a05d787d1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b3cea1fe2147aec1b2472f5549f877f9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b427d4e324a2dc08cf6d55d49425e7d6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b48a1e9a8e7b29aecb78d105eea31eae.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b65a53c219edf36f99408c3db4af3b67.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b66013c8747534f35a667aea49042f29.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b672da5d3aaa68e8697cff0e33bdcd69.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b67b90bf53114ed491edc8ec47b58bfa.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b85d53df9b0cefd8ce7f1036be5eca6c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b9e159ff40d951b018549cfe83024fb9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/b9e7ca25b362959276d2413005f5c46e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/bb294ac9ca1b4e61e4897f9d476dceb1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/bb38d2e005dfcf59e50a6e0a941b55c3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/bbd8466c42f9d8e980302310a18adfbd.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/bdf3290d88bf0b14e8d7b3ebdfc940ad.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/bdfadae7afaf81d40da58efbe6d38e7b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c095a34741689cda13b97d44b6959cd8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c183e02d89c52f0b4aed981d6f71cf12.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c250859543cb3b0a34ddd7fec800ad56.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c311b6d84ed740388a32784db9f59ebb.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c3afae41b134e89e1f1849a80da7572d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c481df91594712202552bc7204f9cba1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c4daba398c31f1fca4604732a0565c58.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c5c870669154c66fccf2c56c6df5a96f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c7b41a96b418881a4fa20b776af5083d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c8d1ef13d765fcb863646ecc52ed2311.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c983ab3100be2cb3e801e5203fd90135.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c9b23485eb85e9a0d4a1b2137d96e042.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/c9ee391c4cdbb01731b82691d3bd5e48.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ca59b153c0add69039738c9315ba78c5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/caaba9c21f0d73c980a7941ecec844e9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/cb388a46621168c23bc09b5e96aae6c4.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/cb700bf8054b210eab4a4ce2265cc9f5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/cc4116bda29a6af8dc2702e43090b412.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/cc425480e8d3fb82d7a0124d24fea890.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ccaffc3046aac9e6579cb29abed65b7d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ccb617285dd80d09044155cfdee86d26.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ccca4ab63a4b146ac48ebcd0e1f2221f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/cdd21715527b810bffaae27921d9b811.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/cdd4afe99a530d29fe937f3c00e24f53.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ce0d98ad3fbca89949ec96b80d35a761.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ce2f6d7127c5ec107643bb68287259e3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d0c406be28d003bdf2663a10d23cbd25.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d1d2a0bb11df77544d36e4d1bc8cbef9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d2302dccb5d21d134a86deab6bf74a74.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d2d48088f83ba3d503fddabb916f4fe5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d3f1c422064877f9928d645034a7b025.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d4ad25a6e402ac86faa6e8260885b44d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d4c20a80a9ca9e3b136fd054a1baec60.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d536edc21aa7e3f2ac7241017d7c602d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d5585bad20ac20aec341deb24196e6dd.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d5af82260c3f660c6a10a2092ccf1230.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d61d3f31aca6e9813b6454c09646422f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d8b2033eef1775ca8fe6227b400508f1.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d92771f7f78968e92310846fd751a815.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/d9ec38678b931df4e7e5aadf8045e26a.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/db608d4f904f2d657aa901fae9fa822c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/dcd0bbd8e4b1e11eac5a9781f1d9078e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/de1a1acbc64288d73305ac973101c91e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/de894ce0ddb972ef0f35554e04c2856d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/debf01350fcdd00779ace83c2b98aa84.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/dfc89373639238b054cd451d8077c0ba.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e08a2bc3d964f91e51eba7f7263c9634.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e1387295c7e9355e974ae0719612b7ce.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e139015de18e9b858cc82944d6762339.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e1424dd133e5458f933a51c3806b45a6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e1aae569ab932e736cf9fceb6cb4453b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e20b12f12ad7f56ac40fd7e2fd113440.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e31e6072947dc2df916fe3d09ad3d08d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e385331f88277e26528741e7b4130856.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e44e078268d99bbff3fa1bd3595a4948.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e4a11b16a586ded11441a6cb7d7f6b75.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e62bba98251079828ee414496378af78.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e720b1dd60d8a392b786d766eb2cb1cc.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e81db6af04d16e2fe3fca56dd28f07a5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e90fd2a1bea6728dad3339a1ee149b70.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/e96516067e2149e8b8ba4b503babab73.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ea891542cdf4902a5442632dc19db96b.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/eb316058c64b68132a8d29e0e3c49b93.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/eb5e929784c1c1cea40f2ad04becccc5.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/eb8406d6e5fbf83863da720cc59a1297.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/eba6a39f7f715341344087e0ab472404.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ec0e2b98a454b794b413d8e8898a223c.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ec5ef67ac6d449440282c95ea8d52f56.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ec9651fbe392d7ed687be00fb91df36e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ede23a7c8483025cf9e6b411bd37c19e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ee29ebe2649877c3d735a810d94c0761.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ee67501a4d4ade3c320ca8e267e7abb8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ef6c7605dad5c55e1ef46d58ca2a223e.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/ef749993e862c20a7f58807238a4af98.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f0c287a1fad60ea5237365b2d93db0f6.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f0c455d3775ed8ec564ae337018c42dc.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f103af356ce03067932da0483df3bc5f.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f38386a09cc95c2338b26ba27b0f75fb.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f4b1dfff7eb8bf5fbda82618489dc3c8.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f585a91fee53a62d19aac1e9c87ac240.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f5888fdebc8a812026a8e9ca3a28b7a9.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f6553ebeda3b5c0636695b47ef53734d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f75a0f1ae254f28afd861a82366dc2ca.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f7999cd6dc119570694e842950131e69.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/f99296686f8fff6381b9093108a91ced.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fae266fb127342858d3fd5f360aa9bca.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fb672d250952768b051414071c2e9c1d.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fb917b66acbaa6fb42b9b609e7d5c956.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fd062a1c76ecbfca9aefb06453a0ea77.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fd953170f69e878cfabfcc70b1a9b3c3.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fe2ea9d4ac4259dbd3e123e3839a0127.djcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-reading-server/127.0.0.1:11211/fe5977093969fbf9fc3a4444a1928e5b.djcache" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="3300a96e5318446d" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EReadingAndroid" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_page_translate.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_register.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_translate_result.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_fragment_history.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_favorite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_page_account.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <element signature="e#673#708#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_page_new_feed.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_manager.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>llTr</find>
+      <find>edtUsername</find>
+      <find>edtResponseText</find>
+      <find>edtReponserText</find>
+      <find>PageListNewFeedAdapter</find>
+      <find>tv_news_title</find>
+      <find>setmUrlEndPoint</find>
+      <find>onBindData</find>
+      <find>listContentSource</find>
+      <find>url_source_feed</find>
+      <find>urlNewFeed</find>
+      <find>llLogin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/PageAccountViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/register/RegisterFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/register/RegisterViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/login/LoginViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/history/HistoryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/history/HistoryFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/history/HistoryViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/ApiServer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/AccountLoginRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/AccountRegisterRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/AddFavoriteRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DataLoginRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DataStringReponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DetectWordRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/FavoriteDeletedResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/ListVocabularyToTranslateAgainRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/ListVocabularyFavoriteRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/TranslateNewFeedAgainRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/TranslateNewFeedRequest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/remote/EReadingDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/remote/EReadingRemoteDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/remote/RssNewFeedRemoteDataSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/BBCRssItemResponse.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/BBCRssResponse.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/BBCRssThumbnail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/DetailResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/LevelUserResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/ListHistoryResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/ListLevelEnglishResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/RssItemMediaGroup.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/RssItemResponse.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/RssResponse.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/response/Token.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/datasource/repository/EReadingRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/datasource/repository/LocalRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/datasource/repository/RssNewFeedRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/utils/CustomCallAdapterFactory.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/utils/MessageApiException.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/App.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_page_account.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_page_translate.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_page_new_feed.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/ApiClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_register.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DataFavoriteResponse.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_list_favorite.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_manager.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="remote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="newfeed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="newfeed" type="462c0819:PsiDirectoryNode" />
+              <item name="displayanewfeed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="newfeed" type="462c0819:PsiDirectoryNode" />
+              <item name="listnewfeed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ereading" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="newfeed" type="462c0819:PsiDirectoryNode" />
+              <item name="translate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EReadingAndroid" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="datasource" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="network" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="network" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="utils" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="account" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="account" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="login" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ereading" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ui" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="newfeed" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="animator" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="drawable" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="menu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mipmap-anydpi-v26" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mipmap-hdpi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mipmap-mdpi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mipmap-xhdpi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mipmap-xxhdpi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mipmap-xxxhdpi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="res" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="values" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dtu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="capstone2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="gradle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="EReadingAndroid" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/Graduate-Project/EReadingAndroid" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="gradle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="wrapper" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_4_API_23" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-26T12:46:11.199Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0118a318-7120-43ee-a2d7-dbf0d9e8ae2a" name="Default Changelist" comment="" />
+      <created>1569501374091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569501374091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.499187" visible="true" weight="0.24546425" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" sideWeight="0.500813" side_tool="true" weight="0.20437567" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32977587" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49626467" weight="0.24209379" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4994664" weight="0.3264418" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32861805" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5037353" side_tool="true" weight="0.20065431" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4967983" visible="true" weight="0.26390404" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3293348" />
+      <window_info anchor="right" id="Assistant" order="0" weight="0.32977587" />
+      <window_info anchor="right" id="Device File Explorer" order="1" sideWeight="0.50054526" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32977587" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info active="true" anchor="right" id="Preview" order="6" sideWeight="0.49945474" visible="true" weight="0.32977587" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.499187" visible="true" weight="0.24546425" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" sideWeight="0.500813" side_tool="true" weight="0.20437567" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32977587" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49626467" weight="0.24209379" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4994664" weight="0.3264418" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5037353" side_tool="true" visible="true" weight="0.20065431" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4967983" weight="0.045801528" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="right" id="Assistant" order="0" weight="0.32977587" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info active="true" anchor="right" id="Preview" order="6" visible="true" weight="0.32977587" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteViewModel.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteViewModel.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/ArrayList.class</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/ArrayList.class</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/ArrayList.class</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/ArrayList.class</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_error_detail.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_loading.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_success.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_display_new_feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="61" selection-start-line="25" selection-end-line="61" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_changepassword.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/App.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="177" column="71" selection-start-line="177" selection-start-column="71" selection-end-line="177" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1655#1656#0" expanded="true" />
+            <element signature="e#1691#1692#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1857#1858#0" expanded="true" />
+            <element signature="e#2293#2294#0" expanded="true" />
+            <element signature="e#2324#2325#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#2404#2405#0" expanded="true" />
+            <element signature="e#2438#2439#0" expanded="true" />
+            <element signature="e#2474#2475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/favorite/FavoriteAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="70" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/request/DataFavoriteResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+          <folding>
+            <element signature="e#52#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1527#1528#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1633#1634#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#1914#1915#0" expanded="true" />
+            <element signature="e#1945#1946#0" expanded="true" />
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
+            <element signature="e#2177#2178#0" expanded="true" />
+            <element signature="e#2234#2235#0" expanded="true" />
+            <element signature="e#2285#2286#0" expanded="true" />
+            <element signature="e#2312#2313#0" expanded="true" />
+            <element signature="e#2363#2364#0" expanded="true" />
+            <element signature="e#2684#2685#0" expanded="true" />
+            <element signature="e#2735#2736#0" expanded="true" />
+            <element signature="e#3044#3045#0" expanded="true" />
+            <element signature="e#3095#3096#0" expanded="true" />
+            <element signature="e#3161#3162#0" expanded="true" />
+            <element signature="e#3212#3213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/AbstractList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/java/util/AbstractCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="118" column="14" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/remote/EReadingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/network/remote/EReadingRemoteDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/home/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/home/HomeFragmentViewModal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/newfeed/translate/TranslateNewFeedAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/newfeed/translate/TranslateNewFeedFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/newfeed/translate/TranslateNewFeedViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/newfeed/listnewfeed/ListNewFeedFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/newfeed/listnewfeed/ListNewFeedPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/newfeed/displayanewfeed/DisplayNewFeedFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/model/VocabularySelected.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/model/LineContentNewFeed.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/model/ErrorUnauthorizedRespone.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="44" column="62" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/model/ItemListNewFeedPager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/model/ItemPageNewFeed.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/home/PageHomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/model/MainPage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/login/LoginFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dtu/capstone2/ereading/ui/account/login/LoginViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_list_new_feed_page.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_list_new_feed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_history.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_favorite_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_page_translate.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_register.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_translate_result.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_fragment_history.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_list_favorite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_page_new_feed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_page_account.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#673#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_manager.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
